@@ -6,7 +6,7 @@ Meu foco e minha paixão é aprender o cada vez mais sobre tecnologias que ajuda
 Gosto de aprender de tudo, mas calma lá, sempre com foco e objetivo, para não ficar perdido no meio desse mundo de tecnologias que saem fresquinhas a cada dia.
 <br/>
 <br/>
-Sou um FullStack Developer :computer:, já trabalhei em empresas com foco em PHP, utilizando frameworks como CodeIgniter e no frontend AngularJS.
+Sou um FullStack Developer :computer:, já trabalhei em empresas com foco em PHP, utilizando frameworks como CodeIgniter e Laravel, também tecnologias como AngularJS no frontend.
 Hoje trabalho como estagiário utilizando principalmente as soluções Oracle na Portobello SA, maior cerâmica da América Latina.
 <br />
 <br />
