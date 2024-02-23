@@ -7,6 +7,7 @@ Gosto de aprender de tudo, mas calma lá, sempre com foco e objetivo, para não 
 <br/>
 <br/>
 Sou um FullStack Developer :computer:, já trabalhei em empresas com foco em PHP, utilizando frameworks como CodeIgniter e Laravel, também tecnologias como AngularJS no frontend.
+<br/>
 Hoje trabalho como Tech Lead em uma empresa Varejista no setor cerâmico, a Portobello Grupo. Tenho trabalhado com um pool de tecnologias Oracle, como database, PLSQL, Apex, Forms, EBS, Publisher, Reports entre outras ferramentas.
 <br />
 <br />
