@@ -35,6 +35,7 @@ Também sigo desenvolvendo um projeto de automatização usando n8n para PME com
 
 ### 📫 Vamos nos conectar?
 
+* 🌐 **Site:** https://waltechdigitalsolutions.com.br
 * 📩 **E-mail Profissional:** [waltechdigitalsolutions@gmail.com](mailto:waltechdigitalsolutions@gmail.com)
 * 📩 **E-mail Pessoal:** [otavio.walter@hotmail.com](mailto:otavio.walter@hotmail.com)
 * 🔗 **LinkedIn:** [linkedin.com/in/otavio-walter](https://www.linkedin.com/in/otavio-walter/)
